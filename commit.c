@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main ()
-{
-    printf("hallo");
+
+    int i;
+    for(i=0;i<10;i++);{
+    puts("hello");
+    }
     return 0;
 }
